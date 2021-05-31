@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Gold100
+  - Gold1000
+  - Gold500
+  - ButtonHead
+  - Inctime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 1373239191
+    locked: 0
+  - name: 2
+    uniqueID: 3993616551
+    locked: 0
+  - name: 3
+    uniqueID: 2135554717
+    locked: 0
+  - name: 4
+    uniqueID: 1276389157
+    locked: 0
+  - name: 5
+    uniqueID: 721828101
+    locked: 0
+  - name: 6
+    uniqueID: 1187803221
+    locked: 0
+  - name: 7
+    uniqueID: 1063332401
+    locked: 0
+  - name: 8
+    uniqueID: 686246825
+    locked: 0
+  - name: 9
+    uniqueID: 1336665033
+    locked: 0
+  - name: 10
+    uniqueID: 3107543393
+    locked: 0
+  - name: 11
+    uniqueID: 2347647689
+    locked: 0
+  - name: 20
+    uniqueID: 511840509
+    locked: 0
+  - name: 50
+    uniqueID: 1141208811
+    locked: 0
